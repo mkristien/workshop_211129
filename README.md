@@ -1,2 +1,5 @@
 # workshop_211129
-Ulozisko pouzivane na GIT workshop v AjTyvIT
+Úložisko používané na GIT workshop v AjTyvIT v pondelok 29 Nov.
+
+
+Môžem pridať nové riadky a zmeny
